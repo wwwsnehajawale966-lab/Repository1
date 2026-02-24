@@ -1,0 +1,93 @@
+.contner{
+  height:100px;
+  width: 100%;
+  background-color:lightgreen ;
+}
+.header{
+   height:110px;
+   width: 100%;
+   background-color:lightblue
+}
+.middle{
+    height:500px;
+    width: 100%;
+    background-color:white;
+}
+.imgss{
+  height: 500px;
+  width: 85%;
+  display: flex;
+  margin-left: 89px;
+}
+.headline{
+  text-align: center;
+  font-size:50px;
+  padding-top:35px;
+}
+.pgs{
+  font-size:25px;
+  margin-left:89px;   
+}
+.FOOTER{
+  height: 100px;
+  width: 100%;
+  background-color: blue;
+  margin-top:800px;
+}
+.pgn{
+  font-size:22px;
+}
+/*home page end*/
+/*images page start*/
+.contner{
+  height: 1000px;
+  width: 100%;
+  background-color: white;
+}
+.hed{
+  height:110px;
+  width: 100%;
+  background-color: chartreuse;
+}
+.middle{
+  height:500px;
+  width: 100%;
+  background-color: white;
+}
+.box3{
+  height:210px;
+  width:27%;
+  background-color:blue;
+  margin-top: 40px;
+  flex-direction: row;
+  border-radius: 15px;
+  border:3px solid;
+  border-color: black;
+  margin-left:30px;
+}
+.boxes{
+  height:210px;
+  width:100%;
+  margin-top:25px;
+  display: flex;
+  margin-left:140px;
+  margin-right:25px;
+  border-color: black;
+  flex-wrap: wrap;
+  flex: row;
+  border:20px;
+}
+.imgn{
+    height: 210px;
+    width: 100%;
+    display: flex;
+}
+.foot{
+  height:210;
+  width: 100%;
+  background-color: blue;
+  padding-top:170px;
+  margin-top: 290px;
+}
+/*images pages page end*/
+/*aboutus page start/*
